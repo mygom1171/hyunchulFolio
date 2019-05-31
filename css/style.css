@@ -481,11 +481,11 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: black;
+  color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: black;
+  background-color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
@@ -496,7 +496,7 @@ a:hover {
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: black;
+  color: #0078ff;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
