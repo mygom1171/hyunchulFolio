@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Hyunchul's portfolio Pages
 
-You can use the [editor on GitHub](https://github.com/pinnpublic/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요 개발자 지망생 엄현철입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+현재는 국비 지원 교육을 수강하며 자바 개발 위주로 개발 경험을 쌓아가고 있습니다.
 
-### Markdown
+현재까지 자바 콘솔 입출력 프로젝트, 자바와 오라클을 연동한 JDBC 프로젝트를 경험한 바 있습니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pinnpublic/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+끊임없이 성장하는 개발자가 되도록 하겠습니다. 감사합니다.
